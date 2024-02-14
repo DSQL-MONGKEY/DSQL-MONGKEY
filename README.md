@@ -14,7 +14,6 @@ I am currently active in Bangkit Academy led by Google, GoTo, and Traveloka as a
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
   <br>
-  <br>
 
 
 ### Github Statistics 🔭
@@ -31,20 +30,4 @@ I am currently active in Bangkit Academy led by Google, GoTo, and Traveloka as a
 - <a href="https://linkedin.com/in/dimp-fe/">LinkedIn</a>
 - <a href="https://dimp-port.vercel.app">Dportfolio</a>
 - dimasprasetyo7696@gmail.com
-<br>
-<br>
 
-<!--
-**DSQL-MONGKEY/DSQL-MONGKEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
--  How to reach me: ...
-- 😄 Pronouns: ...
-- Fun fact: ...
--->
