@@ -1,4 +1,4 @@
-### Hi! I'm Dimas 👋
+## Hi! I'm [Dimas](https://linkedin.com/in/dimp-fe/) 👋
 
 Seasoned Software Engineer with a strong focus on front-end development. Intermediate experience with Javascript/Typescript and well-versed in frontend technologies. Always passionate and open-minded to learn about new things📈.
 
@@ -29,8 +29,8 @@ I am currently active at Bangkit Academy led by Google, GoTo, and Traveloka as a
 ### Github Statistics 🔭
 <p align="left">
 <a href="https://github.com/DSQL-MONGKEY">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DSQL-MONGKEY&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DSQL-MONGKEY&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DSQL-MONGKEY&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DSQL-MONGKEY&layout=compact&theme=algolia&langs_count=8&hide_border=true"/>
 </a>
 </p>
 
