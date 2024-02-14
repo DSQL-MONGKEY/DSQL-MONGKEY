@@ -33,6 +33,8 @@ I am currently active at Bangkit Academy led by Google, GoTo, and Traveloka as a
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DSQL-MONGKEY&layout=compact&theme=algolia"/>
 </a>
 </p>
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+<br />
 
 ### Reach me on 💬
 - <a href="https://linkedin.com/in/dimp-fe/">LinkedIn</a>
