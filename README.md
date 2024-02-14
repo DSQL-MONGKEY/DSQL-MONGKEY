@@ -1,9 +1,23 @@
-### Hi there 👋
+### Hi! I'm Dimas 👋
 
 Seasoned Software Engineer with a strong focus on front-end development. Intermediate experience with Javascript/Typescript and well-versed in frontend technologies. Always passionate and open-minded to learn about new things.
 
 
-Above all that, I enjoy design, sports, gaming, and naturally have a good intuitive sense in the art-visual related field, gotcha with that pixel-perfect taste! 🚀✨
+Above all that, I enjoy design, sports, and gaming. I naturally have a good intuitive sense in the art-visual-related field, gotcha with that pixel-perfect taste! 🚀✨
+
+### Github Statistics
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DSQL-MONGKEY&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DSQL-MONGKEY&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://linkedin.com/in/dimp-fe/">LinkedIn</a>
+- <a href="https://dimp-port.vercel.app">Dportfolio</a>
+- dimas@dicoding.com
+
 
 <!--
 **DSQL-MONGKEY/DSQL-MONGKEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
