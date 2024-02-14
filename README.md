@@ -1,6 +1,7 @@
 ### Hi! I'm Dimas 👋
 
 Seasoned Software Engineer with a strong focus on front-end development. Intermediate experience with Javascript/Typescript and well-versed in frontend technologies. Always passionate and open-minded to learn about new things.
+
 Above all that, I enjoy design, sports, and gaming. I naturally have a good intuitive sense in the art-visual-related field, gotcha with that pixel-perfect taste! 🚀✨
 
 I am currently active in Bangkit Academy led by Google, GoTo, and Traveloka as a Cloud Computing Cohort ⚡.
