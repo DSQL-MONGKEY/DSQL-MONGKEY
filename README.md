@@ -14,7 +14,8 @@ I am currently active in Bangkit Academy led by Google, GoTo, and Traveloka as a
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
   <br>
-
+<br>
+<br>
 
 ### Github Statistics 🔭
 <p align="left">
@@ -23,8 +24,6 @@ I am currently active in Bangkit Academy led by Google, GoTo, and Traveloka as a
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DSQL-MONGKEY&layout=compact&theme=algolia"/>
 </a>
 </p>
-<br>
-<br>
 
 ### Reach me on 💬
 - <a href="https://linkedin.com/in/dimp-fe/">LinkedIn</a>
