@@ -36,9 +36,8 @@ I am currently active at Bangkit Academy led by Google, GoTo, and Traveloka as a
 
 
 ### Reach me on 💬
-- <a href="https://linkedin.com/in/dimp-fe/">LinkedIn</a>
-- <a href="https://dimp-port.vercel.app">Dportfolio</a>
+- [LinkedIn]("https://linkedin.com/in/dimp-fe/")
+- [DPortfolio]("https://dimp-port.vercel.app")
 - dimasprasetyo7696@gmail.com
 
-- [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
 
