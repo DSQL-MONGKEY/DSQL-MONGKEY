@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Seasoned Software Engineer with a strong focus on front-end development. Intermediate experience with Javascript/Typescript and well-versed in frontend technologies. Always passionate and open-minded to learn about new things.
+
+
+Above all that, I enjoy design, sports, gaming, and naturally have a good intuitive sense in the art-visual related field, gotcha with that pixel-perfect taste! 🚀✨
+
 <!--
 **DSQL-MONGKEY/DSQL-MONGKEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
