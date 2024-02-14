@@ -1,13 +1,13 @@
 ### Hi! I'm Dimas 👋
 
-Seasoned Software Engineer with a strong focus on front-end development. Intermediate experience with Javascript/Typescript and well-versed in frontend technologies. Always passionate and open-minded to learn about new things.
+Seasoned Software Engineer with a strong focus on front-end development. Intermediate experience with Javascript/Typescript and well-versed in frontend technologies. Always passionate and open-minded to learn about new things📈.
 
 Above all that, I enjoy design, sports, and gaming. I naturally have a good intuitive sense in the art-visual-related field, gotcha with that pixel-perfect taste! 🚀✨
 
-I am currently active in Bangkit Academy led by Google, GoTo, and Traveloka as a Cloud Computing Cohort ⚡.
+I am currently active in Bangkit Academy led by Google, GoTo, and Traveloka as a Cloud Computing☁️ Cohort ⚡.
 
 
-### Tech Stack 📫
+### Tech Stack ☄️
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
@@ -16,7 +16,6 @@ I am currently active in Bangkit Academy led by Google, GoTo, and Traveloka as a
   <br>
 <br>
 <br>
-
 ### Github Statistics 🔭
 <p align="left">
 <a href="https://github.com/penuliscode">
