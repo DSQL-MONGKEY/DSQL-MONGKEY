@@ -24,13 +24,15 @@ I am currently active in Bangkit Academy led by Google, GoTo, and Traveloka as a
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DSQL-MONGKEY&layout=compact&theme=algolia"/>
 </a>
 </p>
-
+<br>
+<br>
 
 ### Reach me on 💬
 - <a href="https://linkedin.com/in/dimp-fe/">LinkedIn</a>
 - <a href="https://dimp-port.vercel.app">Dportfolio</a>
 - dimasprasetyo7696@gmail.com
-
+<br>
+<br>
 
 <!--
 **DSQL-MONGKEY/DSQL-MONGKEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
