@@ -38,6 +38,6 @@ I am currently active at Bangkit Academy led by Google, GoTo, and Traveloka as a
 ### Reach me on 💬
 - [LinkedIn](https://linkedin.com/in/dimp-fe/)
 - [DPortfolio](https://dimp-port.vercel.app)
-- dimasprasetyo7696@gmail.com
+- dimasprasetyo.work@gmail.com
 
 
