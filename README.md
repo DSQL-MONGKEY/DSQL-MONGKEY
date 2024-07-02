@@ -14,11 +14,17 @@ I am currently active at Bangkit Academy led by Google, GoTo, and Traveloka as a
   <a href="#">
     <img align="left" alt="Typescript" title="Typescript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
   </a>
+  <a href="https://www.python.org/">
+    <img align="left" alt="Python" title="Python" width="25px" height="25px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+  </a>
   <a href="https://nodejs.org/">
     <img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
   </a>
   <a href="https://reactjs.org/">
     <img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img align="left" alt="Firebase" title="Firebase" width="25px" height="25px" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" />
   </a>
   <a href="https://nextjs.org/">
     <img align="left" alt="Next" title="NextJS (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
@@ -32,8 +38,11 @@ I am currently active at Bangkit Academy led by Google, GoTo, and Traveloka as a
   <a href="https://firebase.google.com/docs">
     <img align="left" alt="Firebase" title="Firebase" width="25px" height="25px" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" />
   </a>
-  <a href="https://www.python.org/">
-    <img align="left" alt="Python" title="Python" width="25px" height="25px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+  <a href="https://cloud.google.com/?hl=id">
+    <img align="left" alt="Firebase" title="Firebase" width="25px" height="25px" src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" />
+  </a>
+  <a href="https://www.arduino.cc/">
+    <img align="left" alt="Firebase" title="Firebase" width="25px" height="25px" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" />
   </a>
   <br>
   <br>
