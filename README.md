@@ -4,7 +4,7 @@ Seasoned Software Engineer with a strong focus on Front-end Development. Interme
 
 Above all that, I enjoy design, sports, and gaming. I also have naturally a good intuitive sense in the art-visual-related field. Gotcha with that pixel-perfect taste! 🚀✨
 
-I'm a Bangkit Academy Cloud Computing☁️ cohort that led by Google, GoTo, and Traveloka in 2024 batch 1. 
+I'm a Cloud Computing☁️ cohort at Bangkit Academy led by Google, GoTo, and Traveloka in 2024 batch 1. 
 
 
 ### Tech Stack ☄️
