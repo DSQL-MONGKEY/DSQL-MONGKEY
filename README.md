@@ -23,6 +23,12 @@ I am currently active at Bangkit Academy led by Google, GoTo, and Traveloka as a
   <a href="https://nextjs.org/">
     <img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
   </a>
+  <a href="https://nextjs.org/">
+    <img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSM96blu6PPO50haqz2w80LyDpoYVmdaHvQQ&usqp=CAU" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/png_logo_vector/mongodb.png" />
+  </a>
   <br>
   <br>
 
