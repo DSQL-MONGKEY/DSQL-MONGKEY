@@ -2,9 +2,9 @@
 
 Seasoned Software Engineer with a strong focus on Front-end Development. Intermediate experience with Javascript/Typescript and well-versed in frontend technologies. Always passionate and open-minded to learn about new things📈.
 
-Above all that, I enjoy design, sports, gaming, and I also have naturally a good intuitive sense in the art-visual-related field. Gotcha with that pixel-perfect taste! 🚀✨
+Above all that, I enjoy design, sports, and gaming. I also have naturally a good intuitive sense in the art-visual-related field. Gotcha with that pixel-perfect taste! 🚀✨
 
-I am currently active at Bangkit Academy led by Google, GoTo, and Traveloka as a Cloud Computing☁️ Cohort⚡.
+I'm a Bangkit Academy Cloud Computing☁️ cohort that led by Google, GoTo, and Traveloka in 2024 batch 1. 
 
 
 ### Tech Stack ☄️
