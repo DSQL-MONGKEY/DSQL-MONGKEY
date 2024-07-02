@@ -24,16 +24,16 @@ I am currently active at Bangkit Academy led by Google, GoTo, and Traveloka as a
     <img align="left" alt="Next" title="NextJS (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
   </a>
   <a href="https://expressjs.com/">
-    <img align="left" alt="Next" title="ExpressJS" width="21px" src=https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" />
+    <img align="left" alt="ExpressJS" title="ExpressJS" width="25px" height="25px" src=https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" />
   </a>
   <a href="https://www.mongodb.com/">
-    <img align="left" alt="Next" title="MongoDB" width="21px" src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" />
+    <img align="left" alt="MongoDB" title="MongoDB" width="21px" height="25px" src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" />
   </a>
   <a href="https://firebase.google.com/docs">
-    <img align="left" alt="Next" title="Firebase" width="21px" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" />
+    <img align="left" alt="Firebase" title="Firebase" width="21px" height="25px" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" />
   </a>
   <a href="https://www.python.org/">
-    <img align="left" alt="Next" title="Python" width="21px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+    <img align="left" alt="Python" title="Python" width="21px" height="25px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
   </a>
   <br>
   <br>
